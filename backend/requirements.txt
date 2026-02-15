@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+groq
+deepgram-sdk
+requests
+livekit-agents
+livekit-plugins-deepgram
+livekit-plugins-openai
+livekit-plugins-silero
+python-multipart
+livekit
+livekit-agents
+livekit-plugins-deepgram
+livekit-plugins-openai
+livekit-plugins-silero
